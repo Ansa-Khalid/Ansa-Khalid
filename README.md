@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ansakhalid-01/ansakhalid-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Ansa Khalid  
+**Frontend React Developer | Node.js API Developer**
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=ansakhalid-01&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 💡 About Me
+
+I am a **Frontend & API Developer** specializing in **React, TypeScript, and UI/UX design** — now also skilled in **Node.js, Express, and REST API development**.  
+My work focuses on **clean, maintainable code** and **responsive, high-performance applications** across devices.
+
+---
+
+## 🛠 Tech Stack
+
+**💻 Frontend:**  
+React · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3  
+
+**🎨 UI Libraries:**  
+MUI · Bootstrap · Tailwind CSS  
+
+**⚙ Backend & APIs:**  
+Node.js · Express.js · REST APIs · TypeScript  
+
+**🧰 Tools & Platforms:**  
+Git · GitHub · Firebase · VS Code  
+
+---
+
+## 📌 Skills Overview
+
+| Category       | Skills |
+|----------------|--------|
+| **Languages**  | JavaScript · TypeScript · Python · Java |
+| **Frontend**   | React · Redux · Tailwind CSS · MUI · Bootstrap |
+| **Backend**    | Node.js · Express.js · REST APIs |
+| **Tools**      | Git · GitHub · Firebase · VS Code |
+
+---
+
+## 🧾 Contribution History
+
+I actively contribute across **two GitHub accounts**:
+
+- 🧑‍💼 **Professional:** [ansakhalid-01](https://github.com/ansakhalid-01) – professional projects, client work, and organization-owned repositories.  
+- 💻 **Personal:** [Ansa-Khalid](https://github.com/Ansa-Khalid) – personal projects, experiments, and open-source contributions.
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansa-khalid/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansakhalid-01)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansakhalid3@gmail.com)  
+
+---
+
+✨ *Let’s collaborate and build something amazing together!*  
