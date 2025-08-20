@@ -47,8 +47,8 @@ Git · GitHub · Firebase · VS Code
 
 I actively contribute across **two GitHub accounts**:
 
-- 🧑‍💼 **Professional:** [ansakhalid-01](https://github.com/ansakhalid-01) – professional projects, client work, and organization-owned repositories.  
-- 💻 **Personal:** [Ansa-Khalid](https://github.com/Ansa-Khalid) – personal projects, experiments, and open-source contributions.
+- 💻 **Professional:** [Ansa-Khalid](https://github.com/Ansa-Khalid) – personal projects, experiments, and open-source contributions.
+- 🧑‍💼 **Personal:** [ansakhalid-01](https://github.com/ansakhalid-01) – professional projects, client work, and organization-owned repositories. 
 
 ---
 
