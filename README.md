@@ -9,46 +9,60 @@
 
 ---
 
-## 💡 About Me
+## 💡 About Me  
 
-I am a **Frontend Developer** specializing in **React, TypeScript, and UI/UX design** — with the ability to create **RESTful APIs using Node.js & Express**.  
-My focus is on **clean, maintainable code** and **responsive, high-performance applications** that work seamlessly across devices.
-
----
-
-## 🛠 Tech Stack
-
-**💻 Frontend:**  
-React · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3  
-
-**🎨 UI Libraries:**  
-MUI · Bootstrap · Tailwind CSS  
-
-**⚙ Backend & APIs:**  
-Node.js · Express.js · REST API Development (TypeScript)  
-
-**🧰 Tools & Platforms:**  
-Git · GitHub · Firebase · VS Code  
+I am a **Frontend React Developer** with experience in **TypeScript, UI/UX design, and API development with Node.js & Express**.  
+I build **clean, maintainable, and scalable applications** that are **responsive, high-performance, and user-friendly**.  
 
 ---
 
-## 📌 Skills Overview
+## 🛠 Tech Stack  
 
-| Category       | Skills |
-|----------------|--------|
-| **Languages**  | JavaScript · TypeScript · Python · Java |
-| **Frontend**   | React · Redux · Tailwind CSS · MUI · Bootstrap |
-| **Backend APIs** | Node.js · Express.js · REST API Development |
-| **Tools**      | Git · GitHub · Firebase · VS Code |
+- **Frontend:** React · Redux · TypeScript · JavaScript · HTML5 · CSS3  
+- **UI Libraries:** Tailwind CSS · MUI · Bootstrap  
+- **Backend & APIs:** Node.js · Express.js · RESTful API Development  
+- **Other Tools:** Git · GitHub · Firebase · VS Code  
 
 ---
 
-## 📫 Let’s Connect
+## 📊 GitHub Stats  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansa-khalid/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansa-khalid)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansakhalid3@gmail.com)  
+<div align="center">
+
+<div align="center">
+
+<!-- GitHub Stats -->
+![Ansa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansa-Khalid&show_icons=true&theme=radical&count_private=true)  
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansa-Khalid&theme=radical)  
+
+</div>
+
+
+</div>
 
 ---
 
-✨ *Let’s collaborate and build something amazing together!*  
+## 📫 Let’s Connect  
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ansa-khalid" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ansa-khalid" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ansakhalid3@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+✨ *Open to exciting opportunities & collaborations — let’s build something amazing together!*  
+
