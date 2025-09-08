@@ -3,7 +3,7 @@
 # 🚀 Ansa Khalid  
 **Frontend React Developer | Node.js API Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid&style=for-the-badge&color=ff005c)
 
 </div>
 
