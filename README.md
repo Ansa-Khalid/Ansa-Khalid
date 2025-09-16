@@ -36,7 +36,7 @@ I build **clean, maintainable, and scalable applications** that are **responsive
 ![Ansa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansa-Khalid&show_icons=true&theme=radical&count_private=true)  
 
 <!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansa-Khalid&theme=radical)  
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansa-Khalid&theme=radical) 
 
 </div>
 
