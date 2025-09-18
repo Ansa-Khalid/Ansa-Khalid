@@ -22,7 +22,7 @@ jobs:
           image-file: "images/userstats.svg"
           include-title: true
           hide-keys: true
-          colors: "dark"
+          colors: "background=282a36,title=ff79c6,text=8be9fd,icon=f1fa8c,graph=bd93f9"
           commit-and-push: true           # Automatically commit back
           category-order: "general, contributions"
           commit-message: "Update GitHub Stats (Automated)"
