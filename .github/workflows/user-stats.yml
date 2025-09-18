@@ -19,10 +19,10 @@ jobs:
       - name: Generate the user stats image
         uses: cicirello/user-statistician@v1
         with:
-          image-file: "images/userstats-dark.svg"
+          image-file: "images/userstats.svg"
           include-title: true
           hide-keys: true
-          colors: "dracula"
+          colors: "dark"
           commit-and-push: true           # Automatically commit back
           category-order: "general, contributions"
           commit-message: "Update GitHub Stats (Automated)"
