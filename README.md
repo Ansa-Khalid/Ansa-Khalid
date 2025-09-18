@@ -33,7 +33,8 @@ I build **clean, maintainable, and scalable applications** that are **responsive
 <div align="center">
 
 <!-- GitHub Stats -->
-![Ansa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansa-Khalid&show_icons=true&theme=radical&count_private=true)  
+
+
 
 <!-- Streak Stats -->
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansa-Khalid&theme=radical) 
