@@ -19,7 +19,7 @@ jobs:
       - name: Generate the user stats image
         uses: cicirello/user-statistician@v1
         with:
-          image-file: "images/userstats.svg"  # Output path
+          image-file: "images/userstats-dark.svg"
           include-title: true
           hide-keys: true
           colors: "dracula"
