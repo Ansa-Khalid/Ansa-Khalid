@@ -1,24 +1,29 @@
 name: user-statistician
 
 on:
-  # Schedule the workflow to run daily at 03:00 UTC
+  # Run daily at 03:00 UTC
   schedule:
     - cron: '0 3 * * *'
-  # Allow manual triggering of the workflow from GitHub Actions tab
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
   stats:
-    # Use the latest Ubuntu environment
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository to the runner
+      # Checkout repository
       - uses: actions/checkout@v4
 
-      # Generate the user stats image using user-statistician action
+      # Generate user stats image
       - name: Generate the user stats image
         uses: cicirello/user-statistician@v1
+        with:
+          image-file: "images/userstats.svg"  # Output path
+          include-title: true
+          hide-keys: true
+          commit-and-push: true           # Automatically commit back
+          commit-message: "Update GitHub Stats (Automated)"
         env:
-          # Use the GitHub token for authentication
+          # Safe GitHub token provided by Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
