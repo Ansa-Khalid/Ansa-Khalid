@@ -1,0 +1,24 @@
+name: user-statistician
+
+on:
+  # Schedule the workflow to run daily at 03:00 UTC
+  schedule:
+    - cron: '0 3 * * *'
+  # Allow manual triggering of the workflow from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  stats:
+    # Use the latest Ubuntu environment
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository to the runner
+      - uses: actions/checkout@v4
+
+      # Generate the user stats image using user-statistician action
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        env:
+          # Use the GitHub token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
