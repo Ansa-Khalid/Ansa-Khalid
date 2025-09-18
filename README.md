@@ -33,7 +33,7 @@ I build **clean, maintainable, and scalable applications** that are **responsive
 <div align="center">
 
 <!-- GitHub Stats -->
-![GitHub Stats](images/userstats.svg)
+
 
 
 <!-- Streak Stats -->
