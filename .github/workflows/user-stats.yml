@@ -22,7 +22,7 @@ jobs:
           image-file: "images/userstats.svg"  # Output path
           include-title: true
           hide-keys: true
-          colors: "dark"
+          colors: "dracula"
           commit-and-push: true           # Automatically commit back
           category-order: "general, contributions"
           commit-message: "Update GitHub Stats (Automated)"
