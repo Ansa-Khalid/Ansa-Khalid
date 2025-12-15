@@ -1,4 +1,6 @@
-name: GitHub Stats Card
+
+You said:
+name: user-statistician
 
 on:
   # Run daily at 03:00 UTC
@@ -8,26 +10,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-stats:
+  stats:
     runs-on: ubuntu-latest
 
     steps:
       # Checkout repository
       - uses: actions/checkout@v4
 
-      # Generate GitHub Stats card
-      - name: Generate GitHub Stats Image
-        run: |
-          mkdir -p images
-          curl -o images/userstats.svg "https://github-readme-stats.vercel.app/api?username=${GITHUB_ACTOR}&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false"
-
-      # Commit the updated SVG
-      - name: Commit and Push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/userstats.svg
-          git commit -m "Update GitHub Stats (Automated)" || echo "No changes to commit"
-          git push
+      # Generate user stats image
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: "images/userstats.svg"
+          include-title: true
+          hide-keys: true
+          colors: "dark"
+          commit-and-push: true           # Automatically commit back
+          category-order: "general, contributions"
+          commit-message: "Update GitHub Stats (Automated)"
         env:
+          # Safe GitHub token provided by Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
