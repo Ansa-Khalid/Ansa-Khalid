@@ -15,17 +15,16 @@ jobs:
       # Checkout repository
       - uses: actions/checkout@v4
 
-      # Generate user stats image
-      - name: Generate the user stats image
+      # Generate user stats image with repo contributions
+      - name: Generate GitHub Stats Image
         uses: cicirello/user-statistician@v1
         with:
           image-file: "images/userstats.svg"
           include-title: true
-          hide-keys: true
+          hide-keys: false                # Show project/repo names
           colors: "dark"
-          commit-and-push: true           # Automatically commit back
-          category-order: "general, contributions"
+          commit-and-push: true
+          category-order: "general, contributions, repos"  # Show per-project stats
           commit-message: "Update GitHub Stats (Automated)"
         env:
-          # Safe GitHub token provided by Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
