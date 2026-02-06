@@ -1,8 +1,9 @@
 <div align="center">
 
 # 🚀 Ansa Khalid  
-**Frontend React Developer | Node.js API Developer**
-
+### Frontend Engineer — React, Next.js & TypeScript
+Building fast, scalable, and production-ready web applications.
+<br/> <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid&style=for-the-badge&color=00C2FF)
 
 
@@ -10,16 +11,23 @@
 
 ---
 
-## 💡 About Me  
+## 👋 About Me
 
-I am a **Frontend React Developer** with experience in **TypeScript, UI/UX design, and API development with Node.js & Express**.  
-I build **clean, maintainable, and scalable applications** that are **responsive, high-performance, and user-friendly**.  
+I’m a Frontend Engineer focused on crafting high-performance, scalable web applications using **React and Next.js**.
+
+I care about:
+- Clean architecture
+- Performance optimization
+- Reusable components
+- Maintainable TypeScript code
+
+I also build REST APIs with **Node.js & Express**, ensuring smooth frontend-backend integration. 
 
 ---
 
 ## 🛠 Tech Stack  
 
-- **Frontend:** React · Redux · TypeScript · JavaScript · HTML5 · CSS3  
+- **Frontend:** React · Next.js · TypeScript · JavaScript · Redux    
 - **UI Libraries:** Tailwind CSS · MUI · Bootstrap  
 - **Backend & APIs:** Node.js · Express.js · RESTful API Development  
 - **Other Tools:** Git · GitHub · Firebase · VS Code  
