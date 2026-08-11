@@ -10,9 +10,7 @@ Building scalable web applications and intelligent AI-powered solutions.
 
 <br/>
 
-<a href="https://github.com/Ansa-Khalid">
-  <img src="https://komarev.com/ghpvc/?username=Ansa-Khalid&style=for-the-badge&color=00C2FF" alt="Profile Views"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid\&style=for-the-badge\&color=00C2FF)
 
 </div>
 
@@ -20,142 +18,40 @@ Building scalable web applications and intelligent AI-powered solutions.
 
 ## 👋 About Me
 
-I'm a **Frontend Engineer with 2+ years of professional experience** specializing in building scalable, responsive, and production-ready web applications using **React, Next.js, TypeScript, and JavaScript**.
+I'm a **Frontend Engineer with 2+ years of professional experience** specializing in **React, Next.js, TypeScript, and JavaScript**.
 
-Alongside frontend engineering, I have a strong interest and hands-on experience in **Artificial Intelligence and Machine Learning**, particularly **computer vision and deep learning** using Python.
+I build **scalable, responsive, and production-ready web applications** with a focus on clean architecture, reusable components, and performance.
 
-My work spans both software engineering and AI/ML, from building reusable frontend architectures and complex web-based tools to developing computer vision systems for real-world problems.
-
-### 💻 Frontend Engineering
-
-* Building scalable applications with **React and Next.js**
-* Developing reusable and maintainable component architectures
-* Type-safe development with **TypeScript**
-* State management with **Redux / Redux Toolkit**
-* Responsive and interactive UI development
-* REST API integration and frontend-backend communication
-* Performance optimization and clean code practices
-
-### 🤖 AI / Machine Learning
-
-* Data preprocessing and exploratory data analysis
-* Machine learning model development and evaluation
-* Deep learning with **TensorFlow, Keras and PyTorch**
-* Computer vision with **OpenCV**
-* Object detection using **YOLO**
-* Multi-object tracking using **ByteTrack**
-* Model evaluation and performance comparison
-* Building AI-powered applications with Python
+I also have hands-on experience in **AI/ML, deep learning, and computer vision**, using Python to develop intelligent solutions and AI-powered applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend Development
+**Frontend:**
+React · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS · MUI · Bootstrap
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
+**AI / ML:**
+Python · Scikit-learn · TensorFlow · Keras · PyTorch · OpenCV · YOLO · Hugging Face
 
-### 🎨 UI & Styling
+**Backend:**
+Node.js · Express.js · REST APIs · Laravel · MariaDB · Firebase
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+**AI Tools:**
+Streamlit · Ollama
 
-### 🤖 AI / ML & Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-</p>
-
-
-### 🤖 AI Tools & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-</p>
-
-
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+**Tools:**
+Git · GitHub · VS Code · Jupyter · Google Colab
 
 ---
 
-## 🚀 Featured Work & Areas
-### 🌐 Scalable Web Applications
+## 💡 What I Work With
 
-Professional experience developing production-oriented web applications and reusable tools using:
-
-* React
-* Next.js
-* TypeScript
-* Redux / Redux Toolkit
-* REST APIs
-* Tailwind CSS
-* Firebase
-
-My frontend work includes complex forms, dynamic interfaces, document/PDF tools, reusable components, API integrations, and performance-focused UI development.
-
----
-
-### 🤖 Machine Learning & Computer Vision
-
-Hands-on experience working with:
-
-* Python
-* Data preprocessing
-* Exploratory data analysis
-* Classification and regression
-* Deep learning
-* Computer vision
-* Object detection
-* Object tracking
-* Model evaluation and comparison
-* AI-generated evaluation/reporting workflows
-
----
-
-## 🧠 AI / ML Interests
-
-I'm particularly interested in applying AI and computer vision to real-world problems.
-
-Current areas of interest include:
-
-* 🔬 Deep Learning
-* 👁️ Computer Vision
-* 🚗 Intelligent Transportation Systems
-* 🎯 Object Detection & Tracking
-* 🧠 AI-powered Applications
-* 📊 Machine Learning Model Evaluation
-* ⚡ Real-Time AI Systems
+* 🌐 **Frontend Engineering** — Scalable React/Next.js applications and reusable UI architecture
+* 🤖 **Machine Learning** — Data preprocessing, model development, evaluation, and experimentation
+* 👁️ **Computer Vision** — Object detection, tracking, image classification, and real-time systems
+* 🧠 **AI Applications** — LLMs, AI agents, and intelligent data analysis workflows
+* 🔗 **Backend Integration** — REST APIs and frontend-backend communication
 
 ---
 
@@ -163,30 +59,23 @@ Current areas of interest include:
 
 <div align="center">
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansa-Khalid&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansa-Khalid&theme=radical" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ansa-Khalid&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansa-Khalid&layout=compact&theme=radical&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
-
-* Advanced **Next.js & TypeScript**
-* Scalable frontend architecture
-* Modern state management
-* AI/ML application development
-* Computer vision and deep learning
-* Real-time object detection and tracking
-* AI-powered web applications
-
----
-
 ## 🎓 Education
 
-**Software Engineering**
-**Fatima Jinnah Women University, Rawalpindi**
+**Software Engineering — Fatima Jinnah Women University**
 
-🥉 **3rd Position — Software Engineering Department**
+🥉 3rd Position — Software Engineering Department
 
 ---
 
@@ -203,18 +92,11 @@ Current areas of interest include:
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:ansakhalid3@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
 
-
-<br/>
-
-<div align="center">
-
-✨ **Open to exciting opportunities, freelance projects, and collaborations.**
-
-**Let's build something impactful together! 🚀**
+**Open to professional opportunities, freelance projects, and collaborations. 🚀**
 
 </div>
