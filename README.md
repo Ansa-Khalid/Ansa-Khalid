@@ -22,9 +22,9 @@ Building scalable web applications and intelligent AI-powered solutions.
 
 I'm a **Frontend Engineer with 2+ years of professional experience** specializing in building scalable, responsive, and production-ready web applications using **React, Next.js, TypeScript, and JavaScript**.
 
-Alongside frontend engineering, I have a strong interest and hands-on experience in **Artificial Intelligence and Machine Learning**, particularly **computer vision and deep learning** using Python.
+Alongside frontend engineering, I have hands-on experience in **Artificial Intelligence and Machine Learning**, particularly **computer vision and deep learning** using Python.
 
-My work spans both software engineering and AI/ML, from building reusable frontend architectures and complex web-based tools to developing computer vision systems for real-world problems.
+My work spans both software engineering and AI/ML — from building reusable frontend architectures and complex web-based tools to developing computer vision systems for real-world problems.
 
 ### 💻 Frontend Engineering
 
@@ -40,7 +40,7 @@ My work spans both software engineering and AI/ML, from building reusable fronte
 
 * Data preprocessing and exploratory data analysis
 * Machine learning model development and evaluation
-* Deep learning with **TensorFlow, Keras and PyTorch**
+* Deep learning with **TensorFlow, Keras, and PyTorch**
 * Computer vision with **OpenCV**
 * Object detection using **YOLO**
 * Multi-object tracking using **ByteTrack**
@@ -77,7 +77,7 @@ My work spans both software engineering and AI/ML, from building reusable fronte
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 </p>
 
@@ -97,9 +97,10 @@ My work spans both software engineering and AI/ML, from building reusable fronte
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
 <p>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -111,7 +112,7 @@ My work spans both software engineering and AI/ML, from building reusable fronte
 
 <div align="center">
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansa-Khalid&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansa-Khalid&theme=radical" alt="GitHub Profile Details"/>
 
 </div>
 
@@ -145,11 +146,11 @@ My work spans both software engineering and AI/ML, from building reusable fronte
 <a href="https://www.linkedin.com/in/ansa-khalid/" target="_blank">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
 </a>
-   
+
 <a href="https://github.com/Ansa-Khalid" target="_blank">
 <img src="https://img.icons8.com/material-outlined/48/github.png" width="45" alt="GitHub"/>
 </a>
-   
+
 <a href="mailto:ansakhalid3@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
 </a>
